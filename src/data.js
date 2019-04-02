@@ -57,3 +57,7 @@ const movieData = [
 ]
 
 export default movieData
+
+// MovieShowcase
+// .map over the imported movie data array and render MovieCards for each element. (see documentation)
+// Don't forget to pass all 4 props
